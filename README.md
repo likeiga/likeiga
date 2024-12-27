@@ -8,4 +8,4 @@ Who I am:
 - 🇯🇵🇨🇳🇺🇸 I’m a trilingual
 - 🤖 I believe that AI will make this world a better place.
 - 📫 How to reach me: likeiga@github.com
-- 🔵 Fun fact: I don't consider myself a Japanese but an ****earthling🔵
+- 🔵 Fun fact: I don't consider myself a Japanese but an **earthling**🔵

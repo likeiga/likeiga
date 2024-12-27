@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-**likeiga/likeiga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Who I am:
 
 - 🍽 I love eating good food
